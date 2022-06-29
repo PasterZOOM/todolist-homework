@@ -10,7 +10,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-  display: flex;
-  justify-items: center;
-  align-items: center;
 }
