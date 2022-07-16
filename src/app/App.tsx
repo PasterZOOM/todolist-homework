@@ -44,6 +44,7 @@ function App({demo = false}: PropsType) {
         </div>
     }
 
+
     return (
         <div className="App">
             <ErrorSnackbar/>
